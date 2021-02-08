@@ -18,3 +18,10 @@ Next, we created a "unique_titles" table to find the first occurance of the empl
 *The mentorship_eligibility shows that most of the employees have "Senior" titles.
 
 Image
+
+
+## Summary
+
+* 90,398 roles will have to be filled as the "silver tsunami" begins to make an impact.
+
+* There are 57,668 Senior staff employees eligible for mentorship and might be qualified enough but there is always a gap between the two generations whatever the comparison is between. For example; if we consider the technology, young generation is always more technology savvy and hence ahead as compared to the seniors. On the other hand, seniors always have a vast knowledge based on their experience. All this can help to mentor the next generation of Pewlett Hackard Employees.
