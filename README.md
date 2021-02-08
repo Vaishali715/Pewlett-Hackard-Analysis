@@ -13,9 +13,11 @@ Next, we created a "unique_titles" table to find the first occurance of the empl
 
 * The retiring_titles shows the majority of the employees of retirement age (57,668/90,398 = 64%) have Senior titles.
 
+
 ![Image](https://github.com/Vaishali715/Pewlett-Hackard-Analysis/blob/main/Data/seniors.png)
 
 * The mentorship_eligibility shows that most of the employees have "Senior" titles as shown in the image below.
+
 
 ![Image](https://github.com/Vaishali715/Pewlett-Hackard-Analysis/blob/main/Data/mentor_eligibility.png)
 
